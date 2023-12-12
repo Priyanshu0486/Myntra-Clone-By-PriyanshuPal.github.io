@@ -1,1 +1,1 @@
-# Myntra-Clone-By-PriyanshuPal.github.io
+This is a clone website created by using HTML and CSS .
